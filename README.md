@@ -13,7 +13,9 @@ Leandro's Engineering and Data Science Projects
 * Proposed solutions based on the risks.
 
 # Project 3: Engineering Sustainability Research Project: Comparative Life Cycle Assesstement 
-* 
+* Assessed the environmental impact using the Global Warming Potential and Kg CO2 equivalent.
+* Compared the life cycle of two types of food: Vegan vs Omnivorous.
+* Analyzed the CO2 equivalent based on System Boundaries.
 
 # Project 4: Data Science Movie Recommendation System
 * 

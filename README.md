@@ -7,7 +7,7 @@ Leandro's Engineering and Data Science Projects
 * Optimized linear, logistic, and random forest regressions to find the best modeling approach.
 ![](./Images/NYC%20property%20prices%20project%20Thumbnail.jpg)
 
-# [Project 2: Engineering Research Project for Supply Chain Risk Management Systems Using Monte Carlo Simulation (Spanish)](https://drive.google.com/drive/folders/1UjHlhK7ARhKaXYqlQqyKLp-PuxKHhrB-?usp=sharing)
+# [Project 2: Engineering Research Project for Supply Chain Risk Management Systems Using Monte Carlo Simulation (Spanish)](https://drive.google.com/file/d/1kQ-KoK6MBoqLq3NGp7sHHRgBAB9AU8-p/view?usp=sharing)
 * Created a risk management system for electronic manfucturing companies.
 * Used ISO norms as ISO 31000, for directing the risk management evaluation system in a real electronics company.
 * Analyzed the cost-benefit alternatives using Monte Carlo Simulations.

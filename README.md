@@ -5,6 +5,9 @@ Leandro's Engineering and Data Science Projects
 * Created a tool that predicts the prices of properties in the five differents Boroughs of New York City, based on properties variables.
 * Scrape a year's worth of properties sold on the NYC real estate market using R, for over 80,000 transactions.
 * Optimized linear, logistic, and random forest regressions to find the best modeling approach.
+![](https://github.com/leandro-vallecillos/Portafolio/blob/main/Images/NYC%2C%20picture%201.jpg)
+![](https://github.com/leandro-vallecillos/Portafolio/blob/main/Images/NYC%2C%20picture%202.jpg)
+![](https://github.com/leandro-vallecillos/Portafolio/blob/main/Images/NYC%2C%20picture%203.jpg)
 
 # [Project 2: Engineering Research project for Supply Chain Risk Management Systems using Monte Carlo Simulation (Spanish)](https://drive.google.com/drive/folders/1UjHlhK7ARhKaXYqlQqyKLp-PuxKHhrB-?usp=sharing)
 * Created a risk management system for electronic manfucturing companies.

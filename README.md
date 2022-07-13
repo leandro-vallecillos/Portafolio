@@ -24,4 +24,4 @@ Leandro's Engineering and Data Science Projects
 * Conducted a predictive model using varios machine learning tools to recommend movies as in Netflix or Hulu apps.
 * Analyzed a dataset of 10 million ratings and 100,000 tag applications applied to 10,000 movies by 72,000 users.
 * Visualized data and explained the model to external audience.
-![](./Images/Risk%20Management%20Project%20Thumbnail.jpg)
+![](./Images/Movie%20recommendation%20project%20thumbnail.jpg)

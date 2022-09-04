@@ -1,5 +1,5 @@
 # Portfolio
-Leandro's Engineering and Data Science Projects
+Leandro's Industrial Engineering and Data Science Projects
 
 # [Project 1: Data Science Predicting Prices Tool for New York City Properties](https://drive.google.com/file/d/1qiGNiXA3n4nXxj36B76PnZmfeddJUqKN/view?usp=sharing)
 * Created a tool that predicts the prices of properties in the five differents Boroughs of New York City, based on properties variables.
